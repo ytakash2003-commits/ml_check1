@@ -49,7 +49,7 @@
 
 <script>
     // 🔴 CHANGE THIS TO YOUR RENDER BACKEND URL
-    const API_URL = "https://ml-model-backend-j6co.onrender.com/eeg";
+    const API_URL = "https://ml-model-backend-j6co.onrender.com/fatigue";
 
     function predict() {
         const data = {
@@ -86,5 +86,6 @@
 
 </body>
 </html>
+
 
 
